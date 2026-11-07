@@ -1,12 +1,12 @@
 ---
-title: Hushgrove Privacy Policy
+title: Mossgrove Privacy Policy
 ---
 
-# Hushgrove Privacy Policy
+# Mossgrove Privacy Policy
 
 *Effective 7 November 2026*
 
-Hushgrove is a calm puzzle app for iPhone. This policy explains what information is used when you play and the choices you have.
+Mossgrove is a calm puzzle app for iPhone. This policy explains what information is used when you play and the choices you have.
 
 ## The short version
 
@@ -17,14 +17,14 @@ Hushgrove is a calm puzzle app for iPhone. This policy explains what information
 
 ## Information stored on your device
 
-Hushgrove saves your game progress (finished levels and puzzles), your settings (sound, music, haptics, appearance) and whether you bought Remove Ads. This stays on your device, is not sent to us, and is deleted when you delete the app.
+Mossgrove saves your game progress (finished levels and puzzles), your settings (sound, music, haptics, appearance) and whether you bought Remove Ads. This stays on your device, is not sent to us, and is deleted when you delete the app.
 
 ## Advertising (Google AdMob)
 
-Unless you buy Remove Ads, Hushgrove shows banner and full-screen ads provided by Google AdMob. To show ads, limit how often you see them, measure them and prevent fraud, Google may collect information such as your device's IP address, device type and settings, ad interactions, approximate location derived from the IP address, and — only if you allow tracking — your device's advertising identifier.
+Unless you buy Remove Ads, Mossgrove shows banner and full-screen ads provided by Google AdMob. To show ads, limit how often you see them, measure them and prevent fraud, Google may collect information such as your device's IP address, device type and settings, ad interactions, approximate location derived from the IP address, and — only if you allow tracking — your device's advertising identifier.
 
-- **Tracking choice:** iOS asks whether Hushgrove may track you. If you choose *Ask App Not to Track*, the advertising identifier is not shared and ads are not personalised using it. You can change this anytime in *Settings → Privacy & Security → Tracking* on your iPhone.
-- **Where the law requires it**, Google's consent form asks for your choices before ads are shown, and you can change them anytime in Hushgrove under *Settings → Privacy choices*.
+- **Tracking choice:** iOS asks whether Mossgrove may track you. If you choose *Ask App Not to Track*, the advertising identifier is not shared and ads are not personalised using it. You can change this anytime in *Settings → Privacy & Security → Tracking* on your iPhone.
+- **Where the law requires it**, Google's consent form asks for your choices before ads are shown, and you can change them anytime in Mossgrove under *Settings → Privacy choices*.
 
 Learn how Google uses information: <https://policies.google.com/technologies/partner-sites>
 Google Privacy Policy: <https://policies.google.com/privacy>
@@ -35,7 +35,7 @@ The Remove Ads purchase is processed by Apple through the App Store. Apple share
 
 ## Children
 
-Hushgrove is made for a general audience and is not directed at children under 13. We don't knowingly collect personal information from children. If you believe a child has shared personal information with us, contact us and we'll help remove it.
+Mossgrove is made for a general audience and is not directed at children under 13. We don't knowingly collect personal information from children. If you believe a child has shared personal information with us, contact us and we'll help remove it.
 
 ## Your rights
 
@@ -47,4 +47,4 @@ If this policy changes, we'll update it here and change the effective date above
 
 ## Contact
 
-Hushgrove — lilonasr@icloud.com
+Mossgrove — lilonasr@icloud.com
