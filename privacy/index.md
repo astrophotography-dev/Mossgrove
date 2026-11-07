@@ -24,7 +24,7 @@ Hushgrove saves your game progress (finished levels and puzzles), your settings 
 Unless you buy Remove Ads, Hushgrove shows banner and full-screen ads provided by Google AdMob. To show ads, limit how often you see them, measure them and prevent fraud, Google may collect information such as your device's IP address, device type and settings, ad interactions, approximate location derived from the IP address, and — only if you allow tracking — your device's advertising identifier.
 
 - **Tracking choice:** iOS asks whether Hushgrove may track you. If you choose *Ask App Not to Track*, the advertising identifier is not shared and ads are not personalised using it. You can change this anytime in *Settings → Privacy & Security → Tracking* on your iPhone.
-- **Europe, UK and Switzerland:** Google's consent form asks for your choices before ads are shown. You can change them anytime in Hushgrove under *Settings → Privacy choices*.
+- **Where the law requires it**, Google's consent form asks for your choices before ads are shown, and you can change them anytime in Hushgrove under *Settings → Privacy choices*.
 
 Learn how Google uses information: <https://policies.google.com/technologies/partner-sites>
 Google Privacy Policy: <https://policies.google.com/privacy>
